@@ -1,4 +1,8 @@
 ## Hi there 👋
+my name is LEE HAE GWON
+and my school is GACON university
+and my major is free major
+thank you
 
 <!--
 **lhk07114/lhk07114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
